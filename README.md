@@ -1,4 +1,4 @@
-# [Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy course)](https://www.udemy.com/course/machinelearning/)
+# [Machine Learning A-Z™: Hands-On Python In Data Science (Udemy course)](https://www.udemy.com/course/machinelearning/)
 
 Notes:
 
