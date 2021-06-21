@@ -8,4 +8,4 @@ Notes:
 4. [Part 4: Clustering](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-4:-Clustering)
 5. [Part 5: Association Rule Learning](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-5:-Association-Rule-Learning)
 
-For the images stored in the repository (which are screenshots of the original images), the credits belongs to the original authors, organisations or universities. These are used not for any commercial purposes except as personal use for notes in this repository wiki as self-reference.
+For the images stored in the repository (which are screenshots of the original images), the credits belongs to the original authors, organisations or universities. These are used not for any other purposes except as personal use for notes in this repository wiki as self-reference.
