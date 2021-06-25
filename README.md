@@ -11,7 +11,7 @@ There are some notebooks that weren't part of the original course as they were c
 
 ## Notes
 
-Notes:
+These are the notes for each of the sections,
 
 1. [Part 1: Data Preprocessing](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-1:-Data-Preprocessing)
 2. [Part 2: Regression](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-2:-Regression)
