@@ -4,7 +4,7 @@ This repository contains modified notebooks from a popular udemy machine learnin
 
 ### Learner's Comments
 
-The course doesn't go in-depth in regards to the inner-workings of the algorithms (such as the mathematical equations), and uses the tools like [sklearn](https://scikit-learn.org/) library primarily for visualising the data for beginners to get a sense of the expected output. 
+The course doesn't go in-depth in regards to the inner-workings of the algorithms (such as the mathematical equations), and uses tools like [sklearn](https://scikit-learn.org/) library (or other libraries) primarily for visualising the data for beginners to get a sense of the expected output and understand the underlying concepts. 
 
 There are some notebooks that weren't part of the original course as they were created by me as part of the learning process (e.g. for reinforcement learning - q-learning, value/policy iteration notebooks, for clustering - dbscan, for association rule learning - fp-growth and modification of eclat notebook to use an actual eclat algorithm from a library).
 
