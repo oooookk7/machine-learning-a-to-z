@@ -7,3 +7,4 @@ apyori==1.1.2
 pyECLAT==1.0.2
 mlxtend==0.18.0
 gym==0.18.3
+nltk==3.6.2
