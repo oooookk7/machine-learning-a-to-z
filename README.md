@@ -8,8 +8,11 @@ The course doesn't go in-depth in regards to the inner-workings of the algorithm
 
 There are some notebooks that weren't part of the original course as they were created by me as part of the learning process (e.g. for reinforcement learning - q-learning, value/policy iteration notebooks, for clustering - dbscan, for association rule learning - fp-growth and modification of eclat notebook to use an actual eclat algorithm from a library).
 
+## Setup
 
-## Notes
+1. Ensure that `> python 3.6` is installed.
+2. Run `pip install -r requirements.txt`. Ensure th
+3. Install Stanford CoreNLP [here](https://stanfordnlp.github.io/CoreNLP/index.html).
 
 These are the notes for each of the sections,
 
