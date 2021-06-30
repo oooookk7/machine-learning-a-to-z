@@ -12,7 +12,7 @@ There are some notebooks that weren't part of the original course as they were c
 
 1. Ensure that `> python 3.6` is installed.
 2. Run `pip install -r requirements.txt`. Ensure th
-3. Install Stanford CoreNLP [here](https://stanfordnlp.github.io/CoreNLP/index.html).
+3. Install Stanford CoreNLP [here](https://nlp.stanford.edu/software/CRF-NER.html).
 
 These are the notes for each of the sections,
 
