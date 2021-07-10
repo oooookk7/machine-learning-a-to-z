@@ -23,6 +23,7 @@ These are the notes for each of the sections,
 5. [Part 5: Association Rule Learning](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-5:-Association-Rule-Learning)
 6. [Part 6: Reinforcement Learning](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-6:-Reinforcement-Learning)
 7. [Part 7: Natural Language Processing](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-7:-Natural-Language-Processing)
+8. [Part 8: Deep Learning](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-8:-Deep-Learning)
 
 ### Image credits
 
