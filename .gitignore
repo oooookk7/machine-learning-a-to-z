@@ -5,4 +5,4 @@ __pycache__
 07/*.embedding
 08/dogs-vs-cats/
 08/fashion-mnist
-08/time-stock-series
+08/stock-time-series
