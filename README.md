@@ -28,7 +28,7 @@ These are the notes for each of the sections,
 9. [Part 9: Dimensionality Reduction](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-9:-Dimensionality-Reduction)
 10. [Part 10: Model Selection (not in-depth)](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-10:-Model-Selection)
 
-Much thanks to the [medium.com](https://medium.com/), [towardsdatascience.com](towardsdatascience.com), [analyticsvidhya.com](analyticsvidhya.com), [geeksforgeeks.com](geeksforgeeks.com) (and many others) for their awesome articles that I could refer and take notes from to rewrite and get a sense of my own.
+Much thanks to the [medium.com](https://medium.com/), [towardsdatascience.com](towardsdatascience.com), [analyticsvidhya.com](analyticsvidhya.com), [machinelearningmastery.com](https://machinelearningmastery.com/), [geeksforgeeks.com](geeksforgeeks.com) (and many others) for their awesome articles that I could refer and take notes from to rewrite and get a sense of my own.
 
 ### Image credits
 
