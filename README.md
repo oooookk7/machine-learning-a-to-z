@@ -25,6 +25,7 @@ These are the notes for each of the sections,
 7. [Part 7: Natural Language Processing](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-7:-Natural-Language-Processing)
 8. [Part 8: Deep Learning](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-8:-Deep-Learning)
 9. [Part 9: Dimensionality Reduction](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-9:-Dimensionality-Reduction)
+10. [Part 10: Model Selection](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-10:-Model-Selection)
 
 ### Image credits
 
