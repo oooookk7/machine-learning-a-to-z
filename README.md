@@ -11,8 +11,9 @@ There are some notebooks that weren't part of the original course as they were c
 ## Setup
 
 1. Ensure that `> python 3.6` is installed and Java JRE `8`.
-2. Run `pip install -r requirements.txt`. Ensure th
-3. Install Stanford CRF NER [here](https://nlp.stanford.edu/software/CRF-NER.html), Stanford CoreNLP parser [here](https://stanfordnlp.github.io/CoreNLP/download.html) and unzip into `07`.
+2. Ensure that jupyter notebook [is installed](https://jupyter.org/install).
+3. Run `pip install -r requirements.txt`.
+4. Install Stanford CRF NER [here](https://nlp.stanford.edu/software/CRF-NER.html), Stanford CoreNLP parser [here](https://stanfordnlp.github.io/CoreNLP/download.html) and unzip into `07`.
 
 These are the notes for each of the sections,
 
@@ -26,6 +27,8 @@ These are the notes for each of the sections,
 8. [Part 8: Deep Learning](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-8:-Deep-Learning)
 9. [Part 9: Dimensionality Reduction](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-9:-Dimensionality-Reduction)
 10. [Part 10: Model Selection](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-10:-Model-Selection)
+
+Much thanks to the [medium.com](https://medium.com/), [towardsdatascience.com](towardsdatascience.com), [analyticsvidhya.com](analyticsvidhya.com), [geeksforgeeks.com](geeksforgeeks.com) (and many others) for their awesome articles that I could refer and take notes from to rewrite and get a sense of my own.
 
 ### Image credits
 
