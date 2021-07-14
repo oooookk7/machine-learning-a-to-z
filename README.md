@@ -26,7 +26,7 @@ These are the notes for each of the sections,
 7. [Part 7: Natural Language Processing](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-7:-Natural-Language-Processing)
 8. [Part 8: Deep Learning](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-8:-Deep-Learning)
 9. [Part 9: Dimensionality Reduction](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-9:-Dimensionality-Reduction)
-10. [Part 10: Model Selection](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-10:-Model-Selection)
+10. [Part 10: Model Selection (not in-depth)](https://github.com/oooookk7/machine-learning-a-to-z/wiki/Part-10:-Model-Selection)
 
 Much thanks to the [medium.com](https://medium.com/), [towardsdatascience.com](towardsdatascience.com), [analyticsvidhya.com](analyticsvidhya.com), [geeksforgeeks.com](geeksforgeeks.com) (and many others) for their awesome articles that I could refer and take notes from to rewrite and get a sense of my own.
 
