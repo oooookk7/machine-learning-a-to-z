@@ -9,11 +9,13 @@ mlxtend==0.18.0
 gym==0.18.3
 nltk==3.6.2
 gensim==4.0.1
-tensorflow==2.5.0
+tensorflow==2.5.0 # Install this separately
 opencv-python==4.5.2.54
 imutils==0.5.4
 spacy==3.1.0
-pyLDAvis==3.3.1
+pyLDAvis==3.2.2
 click==7.1.1
 exit==2020.12.3
 scipy==1.7.0
+xgboost==1.4.2
+graphviz==0.17
