@@ -13,7 +13,7 @@ There are some notebooks that weren't part of the original course as they were c
 1. Ensure that `> python 3.6` is installed and Java JRE `8`.
 2. Ensure that jupyter notebook [is installed](https://jupyter.org/install).
 3. Run `pip install -r requirements.txt`.
-4. Install Stanford CRF NER [here](https://nlp.stanford.edu/software/CRF-NER.html), Stanford CoreNLP parser [here](https://stanfordnlp.github.io/CoreNLP/download.html) and unzip into `07`.
+4. Install Stanford CRF NER [here](https://nlp.stanford.edu/software/CRF-NER.html), Stanford CoreNLP parser [here](https://stanfordnlp.github.io/CoreNLP/download.html) and unzip into `07 - Natural Language Processing`.
 
 These are the notes for each of the sections,
 
