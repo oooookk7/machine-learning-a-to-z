@@ -1,8 +1,9 @@
 **/*/.ipynb_checkpoints
 **/*/__pycache__
 __pycache__
-07/stanford*
-07/*.embedding
-08/dogs-vs-cats/
-08/fashion-mnist
-08/stock-time-series
+07*/stanford*
+07*/*.embedding
+08*/dogs-vs-cats/
+08*/fashion-mnist
+08*/brain-mri-images
+08*/stock-time-series
